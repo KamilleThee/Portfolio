@@ -55,9 +55,9 @@
 }
 
 .logo {
-    position:relative;
-    margin-bottom:30rem;
-    margin-right:20%;
+    position:absolute;
+    top:2rem;
+    left:3rem;
     max-width: 10vw;
     width: 10vw;
 }
